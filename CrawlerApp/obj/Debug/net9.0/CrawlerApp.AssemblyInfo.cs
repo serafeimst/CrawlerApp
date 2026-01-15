@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrawlerApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1360400073fd2eea8121ca7002eb8381f9d77002")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrawlerApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrawlerApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

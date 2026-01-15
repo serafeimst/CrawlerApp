@@ -10,3 +10,4 @@
 /home/serafeim/Nomiki/CrawlerApp/CrawlerLibrary/obj/Debug/net9.0/refint/CrawlerLibrary.dll
 /home/serafeim/Nomiki/CrawlerApp/CrawlerLibrary/obj/Debug/net9.0/CrawlerLibrary.pdb
 /home/serafeim/Nomiki/CrawlerApp/CrawlerLibrary/obj/Debug/net9.0/ref/CrawlerLibrary.dll
+/home/serafeim/Nomiki/CrawlerApp/CrawlerLibrary/obj/Debug/net9.0/CrawlerLibrary.sourcelink.json

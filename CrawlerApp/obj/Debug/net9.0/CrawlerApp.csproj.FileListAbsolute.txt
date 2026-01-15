@@ -17,3 +17,4 @@
 /home/serafeim/Nomiki/CrawlerApp/CrawlerApp/obj/Debug/net9.0/CrawlerApp.pdb
 /home/serafeim/Nomiki/CrawlerApp/CrawlerApp/obj/Debug/net9.0/CrawlerApp.genruntimeconfig.cache
 /home/serafeim/Nomiki/CrawlerApp/CrawlerApp/obj/Debug/net9.0/ref/CrawlerApp.dll
+/home/serafeim/Nomiki/CrawlerApp/CrawlerApp/obj/Debug/net9.0/CrawlerApp.sourcelink.json

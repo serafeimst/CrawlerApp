@@ -25,7 +25,7 @@ while (true)
         Console.WriteLine("Invalid input");
     }
 
-    var interestRate = data.FirstOrDefault(d=>d.StartDate ==  dateFrom && d.EndDate == dateTo);
+    var interestRate = data.FirstOrDefault(d=>d.StartDate <=  dateFrom && d.EndDate >= dateTo);
 
     Console.WriteLine("Give the amount");
 
