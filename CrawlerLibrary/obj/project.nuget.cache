@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZJL/c+F945c=",
+  "success": true,
+  "projectFilePath": "/home/serafeim/Nomiki/CrawlerApp/CrawlerLibrary/CrawlerLibrary.csproj",
+  "expectedPackageFiles": [
+    "/home/serafeim/.nuget/packages/htmlagilitypack/1.12.4/htmlagilitypack.1.12.4.nupkg.sha512"
+  ],
+  "logs": []
+}

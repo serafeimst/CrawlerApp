@@ -1,0 +1,12 @@
+/home/serafeim/Nomiki/CrawlerApp/CrawlerLibrary/bin/Debug/net9.0/CrawlerLibrary.deps.json
+/home/serafeim/Nomiki/CrawlerApp/CrawlerLibrary/bin/Debug/net9.0/CrawlerLibrary.dll
+/home/serafeim/Nomiki/CrawlerApp/CrawlerLibrary/bin/Debug/net9.0/CrawlerLibrary.pdb
+/home/serafeim/Nomiki/CrawlerApp/CrawlerLibrary/obj/Debug/net9.0/CrawlerLibrary.csproj.AssemblyReference.cache
+/home/serafeim/Nomiki/CrawlerApp/CrawlerLibrary/obj/Debug/net9.0/CrawlerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/serafeim/Nomiki/CrawlerApp/CrawlerLibrary/obj/Debug/net9.0/CrawlerLibrary.AssemblyInfoInputs.cache
+/home/serafeim/Nomiki/CrawlerApp/CrawlerLibrary/obj/Debug/net9.0/CrawlerLibrary.AssemblyInfo.cs
+/home/serafeim/Nomiki/CrawlerApp/CrawlerLibrary/obj/Debug/net9.0/CrawlerLibrary.csproj.CoreCompileInputs.cache
+/home/serafeim/Nomiki/CrawlerApp/CrawlerLibrary/obj/Debug/net9.0/CrawlerLibrary.dll
+/home/serafeim/Nomiki/CrawlerApp/CrawlerLibrary/obj/Debug/net9.0/refint/CrawlerLibrary.dll
+/home/serafeim/Nomiki/CrawlerApp/CrawlerLibrary/obj/Debug/net9.0/CrawlerLibrary.pdb
+/home/serafeim/Nomiki/CrawlerApp/CrawlerLibrary/obj/Debug/net9.0/ref/CrawlerLibrary.dll
